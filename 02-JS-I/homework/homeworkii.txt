@@ -1,0 +1,8 @@
+Expliaciones:
+Variable: es una caja donde puedes guardar una informacion, para buscarla luego cuando la necesites.
+Strings: es una cadena de caracteres o bloques de texto.
+funciones (argumentos, `return`): es la manera como nos comunicamos con la computadora para que haga lo que queremos. este medio de comunicacion tiene diversos lenguajes.
+          Los argumentos: son los nombres que reciben las funciones para llamarlas.
+          return, es una funcion que permite mostrarnos un resultado en la pantalla. 
+Declaraciones if: son condicionales que se usan para armar logicas que a su vez forman una funcion.
+Valores booleanos: son valores que solo tienen dos respuestas, true o false.
